@@ -6,6 +6,7 @@ Overview
 
 ## Description
 
+- In the case of Slack Enterprise Grid, it is necessary to "/dnd {time}" in all Workspaces, so I made it troublesome.
 - "/slash {query}" workflow use alfred. after forced termination of Slack.app, restart at specific time.
 
 ## Demo
